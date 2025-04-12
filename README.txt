@@ -5,16 +5,11 @@ RESPONSIBLE
 USAGE
 İn windows: Simply double-click the IP_Checker.exe file, and the program will open automatically. Enter the IP address you wish to scan and wait for the results.
 İn termux: WWrite these:
-ㅤㅤㅤㅤㅤㅤ
+
 ➤ pip install art
-ㅤㅤㅤㅤㅤㅤ
 ➤ pkg install git
-ㅤㅤㅤㅤㅤㅤ
 ➤ git clone https://github.com/h2p-hacktoplay/H2P-IP-Tracker
-ㅤㅤㅤㅤㅤㅤ
 ➤ cd H2P-IP-Tracker
-
-
 ➤ python IP_Checker.py
 
 
